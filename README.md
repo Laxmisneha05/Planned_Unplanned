@@ -47,5 +47,6 @@ Both models provide robust insights into the urban planning and organization of 
    - Calculate the area and perimeter.
    - Analyze the road network.
    - Classify the area as planned or unplanned using the selected machine learning model.
-
+## Output
+![planned](https://github.com/user-attachments/assets/4c72f8af-e963-4454-b10d-37d82e5e55fa)
 
